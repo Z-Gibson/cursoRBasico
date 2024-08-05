@@ -59,3 +59,5 @@ Abaixo estão os scripts usados no RStudio após a aula:
   
 - [Livro o Zen do R](https://curso-r.github.io/zen-do-r/index.html)
 
+Quando a gente fica junto, tem briga!
+Quando a gente se separa, saudade!
